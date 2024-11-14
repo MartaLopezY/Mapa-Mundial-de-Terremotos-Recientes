@@ -1,0 +1,15 @@
+#map {
+  width: 100%;
+  height: 600px;
+  background-color: #eef3f9;
+}
+
+.info-box {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #333;
+}
